@@ -1,0 +1,937 @@
+.container{
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 3191px;
+background: #ffffff 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.banner{
+background: transparent url('image/banner.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 924px;
+}
+.logo{
+    background: transparent url('image/Asset.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 76px;
+    width: 262px;
+    left: 141px;
+    height: 88px;
+    position: absolute;
+}
+.form{
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 14px 27px #00000017;
+    border-radius: 13px;
+    opacity: 1;
+    top: 102px;
+    left: 1048px;
+    width: 734px;
+    height: 1079px;
+    position: relative;
+}
+.text{
+top: 295px;
+left: 141px;
+width: 754px;
+height: 253px;
+text-align: left;
+font: normal normal normal 51px/64px Aktifo A;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+.text2{
+    top: 532px;
+left: 141px;
+width: 527px;
+height: 82px;
+text-align: left;
+font: normal normal 300 34px/41px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.connect{
+top: 155px;
+left: 1107px;
+width: 276px;
+height: 41px;
+text-align: left;
+font: normal normal 600 34px/41px Aktifo A;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+.banner2{
+top: 924px;
+left: 0px;
+width: 1920px;
+height: 789px;
+background: transparent url('image/back.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.banner3{
+top: 1713px;
+left: 0px;
+width: 1920px;
+height: 1342px;
+background: #E5E5E5 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.pic{
+top: 1713px;
+left: 0px;
+width: 681px;
+height: 1156px;
+background: transparent url('image/gs.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.footer{
+top: 2869px;
+left: 0px;
+width: 1920px;
+height: 246px;
+background: #1A1A1A 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.minilogo{
+top: 2984px;
+left: 118px;
+width: 209px;
+height: 71px;
+background: transparent url('image/Vector Smart Object.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+
+}
+.appearance{
+top: 677px;
+left: 172px;
+width: 80px;
+height: 80px;
+background: #292929 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.one{
+    top: 677px;
+left: 172px;
+width: 80px;
+height: 80px;
+background: #292929 0% 0% no-repeat padding-box;
+opacity: 1;
+    position: absolute;
+    border: 0px solid #292929;
+border-radius: 50px;
+}
+.dol{
+top: 1079px;
+left: 140px;
+width: 731px;
+height: 61px;
+text-align: left;
+font: normal normal 600 51px/63px Aktifo A;
+letter-spacing: 0px;
+color: #131313;
+opacity: 1;
+position: absolute;
+}
+.print{
+    top: 1147px;
+    left: 140px;
+    width: 853px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 300 20px/28px Aktifo A;
+    letter-spacing: 0px;
+    color: #131313;
+    opacity: 1; 
+    position: absolute;
+}
+.fea{
+top: 1207px;
+left: 140px;
+width: 834px;
+height: 24px;
+text-align: left;
+font: normal normal medium 20px/28px Aktifo A;
+letter-spacing: 0px;
+color: #131313;
+opacity: 1;  
+position: absolute;
+}
+.pre{
+top: 1253px;
+left: 156px;
+width: 793px;
+height: 53px;
+text-align: left;
+letter-spacing: 0px;
+color: #131313;
+opacity: 1;
+position: absolute;
+}
+.the{
+top: 1334px;
+left: 156px;
+width: 798px;
+height: 52px;
+text-align: left;
+letter-spacing: 0px;
+color: #131313;
+opacity: 1;
+position: absolute;
+}
+.our{
+top: 1414px;
+left: 156px;
+width: 818px;
+height: 53px;
+text-align: left;
+letter-spacing: 0px;
+color: #131313;
+opacity: 1;
+position: absolute;
+}
+.inq{
+top: 1535px;
+left: 140px;
+width: 359px;
+height: 75px;
+background: #F26621 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+position: absolute;
+}
+.inquire{
+ top: 1557px;
+left: 200px;
+width: 175px;
+height: 36px;
+text-align: left;
+font: normal normal 600 30px/36px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+
+}
+.arrow1{
+top: 1545px;
+left: 404px;
+width: 50px;
+height: 21px;
+opacity: 1;
+position: absolute;
+font-size: 50px;
+color: white;
+}
+.arrow2{
+    top: 1070px;
+left: 1457px;
+width: 39px;
+height: 21px;
+    opacity: 1;
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    }
+    .arrow3{
+        top: 2715px;
+        left: 1163px;
+        width: 39px;
+        height: 21px;
+        opacity: 1;
+        position: absolute;
+        font-size: 50px;
+        color: white;
+        }
+.dot{
+top: 1261px;
+left: 140px;
+width: 5px;
+height: 6px;
+background: #131313 0% 0% no-repeat padding-box;
+border: 0px solid #00000000;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+
+}
+.dot2{
+ top: 1342px;
+left: 140px;
+width: 5px;
+height: 6px;
+background: #131313 0% 0% no-repeat padding-box;
+border: 0px solid #00000000;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+.dot3{
+ top: 1422px;
+left: 140px;
+width: 5px;
+height: 6px;
+background: #131313 0% 0% no-repeat padding-box;
+border: 0px solid #00000000;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+.why{
+top: 1842px;
+left: 782px;
+width: 215px;
+height: 61px;
+text-align: left;
+font: normal normal 600 51px/63px Aktifo A;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;
+}
+.quality{
+    top: 1935px;
+    left: 938px;
+    width: 809px;
+    height: 670px;
+    text-align: left;
+    letter-spacing: 0px;
+    opacity: 1;
+    position: absolute;
+
+}
+.qui{
+top: 0px;
+left: 0px;
+width: 169px;
+height: 24px;
+text-align: left;
+font: normal normal medium 20px/34px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+position: absolute;
+}
+.digital{
+ top: 34px;
+left: 0px;
+width: 788px;
+height: 24px;
+text-align: left;
+font: normal normal 300 20px/34px Aktifo A;
+letter-spacing: 0px;
+color: #515151;
+position: absolute;
+}
+.mul{
+top: 170px;
+left: 0px;
+width: 167px;
+height: 24px;
+text-align: left;
+font: normal normal medium 20px/34px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+position: absolute;
+}
+.offer{
+top: 202px;
+left: 0px;
+width: 713px;
+height: 24px;
+text-align: left;
+font: normal normal 300 20px/34px Aktifo A;
+letter-spacing: 0px;
+color: #515151;
+position: absolute;
+}
+.qui1{
+    top: 374px;
+    left: 0px;
+    width: 190px;
+    height: 24px;
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    position: absolute;
+    }
+    .digital1{
+     top: 408px;
+    left: 0px;
+    width: 788px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+    position: absolute;
+    }
+    .mul1{
+    top: 578px;
+    left: 0px;
+    width: 180px;
+    height: 24px;
+    text-align: left;
+    font: normal normal medium 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    position: absolute;
+    }
+    .offer1{
+    top: 612px;
+    left: 0px;
+    width: 713px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 300 20px/34px Aktifo A;
+    letter-spacing: 0px;
+    color: #515151;
+    position: absolute;
+    }
+.copy{
+top: 3147px;
+left: 693px;
+width: 534px;
+height: 19px;
+text-align: center;
+font: normal normal 300 16px/19px Aktifo A;
+letter-spacing: 0px;
+color: #848484;
+opacity: 1;
+position: absolute;
+}
+.best{
+top: 2929px;
+left: 124px;
+width: 239px;
+height: 31px;
+text-align: left;
+font: normal normal 300 25px/36px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+/* text-transform: lowercase; */
+opacity: 0.78;
+position: absolute;
+}
+.avery{
+top: 2929px;
+left: 1128px;
+width: 267px;
+height: 88px;
+text-align: left;
+font: normal normal 300 13px/24px Aktifo A;
+letter-spacing: 0px;
+color: #727272;
+text-transform: capitalize;
+opacity: 1;
+position: absolute;
+}
+.over{
+    top: 2929px;
+    left: 1569px;
+    width: 164px;
+    height: 64px;
+    text-align: left;
+    font: normal normal 300 13px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #727272;
+    text-transform: capitalize;
+    opacity: 1;  
+    position: absolute;
+}
+.max{
+top: 2929px;
+left: 530px;
+width: 339px;
+height: 29px;
+text-align: left;
+font: normal normal 300 24px/29px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+.us{
+top: 2979px;
+left: 530px;
+width: 86px;
+height: 29px;
+text-align: left;
+font: normal normal 300 24px/29px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+.now{
+top: 3029px;
+left: 530px;
+width: 145px;
+height: 29px;
+text-align: left;
+font: normal normal 300 24px/29px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+.outstanding{
+top: 203px;
+left: 1107px;
+width: 404px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.maximum{
+top: 768px;
+left: 163px;
+width: 98px;
+height: 48px;
+text-align: center;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #5D5D5D;
+opacity: 1;
+position: absolute;
+}
+.ench{
+top: 768px;
+left: 376px;
+width: 122px;
+height: 48px;
+text-align: center;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #5D5D5D;
+opacity: 1;
+position: absolute;
+}
+.fname1{
+    top: 274px;
+    left: 1107px;
+    width: 106px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+    position: absolute;
+}
+#lname{
+    top: 309px;
+    left: 1440px;
+    width: 283px;
+    height: 46px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+    position: absolute;
+}
+.form-label1{
+    position: absolute;
+    top: 377px;
+left: 1107px;
+width: 54px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+#fname{
+top: 309px;
+left: 1107px;
+width: 283px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.lname1{
+top: 274px;
+left: 1440px;
+width: 106px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.form-control1{
+    top: 412px;
+left: 1107px;
+width: 283px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.form-control2{
+    top: 412px;
+left: 1440px;
+width: 283px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.form-control3{
+    top: 521px;
+left: 1107px;
+width: 283px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.form-label2{
+    top: 377px;
+    left: 1440px;
+    width: 166px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+position: absolute;
+}
+.form-label3{
+top: 486px;
+left: 1107px;
+width: 98px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.form-select{
+    top: 521px;
+left: 1440px;
+width: 283px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.state{
+top: 486px;
+left: 1440px;
+width: 54px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.how{
+    top: 595px;
+left: 1107px;
+width: 340px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.form-select2{
+    top: 630px;
+left: 1107px;
+width: 616px;
+height: 46px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.form-select3{
+    top: 739px;
+    left: 1107px;
+    width: 616px;
+    height: 46px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 0.25px solid #62777D;
+    border-radius: 8px;
+    opacity: 1;
+    position: absolute;
+}
+.preferred{
+    top: 704px;
+    left: 1107px;
+    width: 212px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 20px/24px Aktifo A;
+    letter-spacing: 0px;
+    color: #292929;
+    opacity: 1;
+    position: absolute;
+}
+.form-label4{
+top: 813px;
+left: 1107px;
+width: 224px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.form-control4{
+    top: 848px;
+left: 1107px;
+width: 616px;
+height: 106px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 0.25px solid #62777D;
+border-radius: 8px;
+opacity: 1;
+position: absolute;
+}
+.form-check-input{
+    top: 979px;
+left: 1108px;
+width: 24px;
+height: 24px;
+border: 0.5px solid #5D5D5D;
+border-radius: 4px;
+opacity: 1;
+position: absolute;
+}
+.form-check-label{
+    top: 979px;
+left: 1145px;
+width: 527px;
+height: 48px;
+text-align: left;
+font: normal normal 300 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #292929;
+opacity: 1;
+position: absolute;
+}
+.sub{
+top: 1058px;
+left: 1274px;
+width: 285px;
+height: 75px;
+background: #F26621 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+position: absolute;
+}
+.submit{
+    top: 1080px;
+left: 1337px;
+width: 108px;
+height: 36px;
+text-align: left;
+font: normal normal 600 30px/36px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+.high{
+    top: 768px;
+left: 610px;
+width: 104px;
+height: 48px;
+text-align: center;
+font: normal normal normal 20px/24px Aktifo A;
+letter-spacing: 0px;
+color: #5D5D5D;
+opacity: 1;
+position: absolute;
+}
+.che{
+top: 690px;
+left: 193px;
+width: 38px;
+height: 51px;
+background: transparent url('image/Group 194.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.ver{
+    top: 693px;
+left: 417px;
+width: 40px;
+height: 47px;
+background: transparent url('image/Group 195.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.sec{
+    top: 677px;
+left: 397px;
+width: 80px;
+height: 80px;
+background: #292929 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+border: 0px solid #292929;
+border-radius: 50px;
+}
+.thr{
+    top: 677px;
+left: 622px;
+width: 80px;
+height: 80px;
+background: #292929 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+border: 0px solid #292929;
+border-radius: 50px;
+}
+.note{
+    top: 687px;
+left: 632px;
+width: 60px;
+height: 60px;
+background: transparent url('image/Asset 2ne.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.wcir{
+    top: 1944px;
+left: 782px;
+width: 109px;
+height: 109px;
+background: transparent url('image/Ellipse 19.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.elli{
+top: 2133px;
+left: 782px;
+width: 109px;
+height: 109px;
+background: transparent url('image/Ellipse 19.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.elli2{
+    top: 2336px;
+left: 782px;
+width: 109px;
+height: 109px;
+background: transparent url('image/Ellipse 19.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.ellipic{
+    top: 2158px;
+left: 807px;
+width: 58px;
+height: 58px;
+background: transparent url('image/ici-adhesives.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.ellipic2{
+    top: 2358px;
+left: 804px;
+width: 65px;
+height: 65px;
+background: transparent url('image/ici-online-communication.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.g110{
+top: 1964px;
+left: 811px;
+width: 51px;
+height: 70px;
+background: transparent url('image/Group 110.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.pat{
+    top: 2547px;
+left: 808px;
+width: 59px;
+height: 70px;
+background: transparent url('image/Path 68.png') 0% 0% no-repeat padding-box;
+/* border: 2px solid #292929; */
+opacity: 1;
+position: absolute;
+}
+.elli3{
+    top: 2526px;
+left: 782px;
+width: 109px;
+height: 109px;
+background: transparent url('image/Ellipse 19.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.rq{
+top: 2705px;
+left: 782px;
+width: 479px;
+height: 75px;
+background: #F26621 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+position: absolute;
+}
+.call{
+top: 2727px;
+left: 842px;
+width: 293px;
+height: 36px;
+text-align: left;
+font: normal normal 600 30px/36px Aktifo A;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
